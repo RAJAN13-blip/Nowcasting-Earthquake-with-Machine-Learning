@@ -7,5 +7,6 @@ The project considers the method of nowcasting to determine the current state of
 - Rejection of outliers
 - Selects the members of the group of accepted bursts, which will then be displayed as a time series.
 - Apply Exponential Moving Average to bursts to construct burst time series.
-- Optimization of the group of possible bursts with a cost function
+- Optimization of the group of possible bursts with a cost function.
+
 Detailed implementation and results are present in the file **Final Report**. 
