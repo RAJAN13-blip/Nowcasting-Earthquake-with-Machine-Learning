@@ -1,0 +1,14 @@
+Python sums:
+
+You have an array:   x[i][j]
+
+To sum the elements of the rows (index i):
+
+sum(x[i,:])     ...(1)
+
+To sum the elements of the columns (index j):
+
+sum(x[:,j])     ...(2)
+
+If i is space and j is time, then summing over space is (2), we still have the time index j.
+Summing over time is (1), we still have the space index i.
