@@ -9,4 +9,4 @@ The project considers the method of nowcasting to determine the current state of
 - Apply Exponential Moving Average to bursts to construct burst time series.
 - Optimization of the group of possible bursts with a cost function.
 
-Detailed implementation and analysis of results are present in the **Final Report**. 
+Detailed implementation and analysis of results are present in the [**Final Report**](https://github.com/thelords1007/Nowcasting-Earthquake-with-Machine-Learning/blob/main/FINAL%20REPORT.pdf). 
